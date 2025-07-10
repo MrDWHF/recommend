@@ -307,7 +307,7 @@ class BookRecommender:
         }
 
         headers = {
-            "Authorization": "Bearer sk-67a23795b8eb4884bd0c1abba7e9bc48",
+            "Authorization": "Bearer 你的api key",
             "Content-Type": "application/json"
         }
 
