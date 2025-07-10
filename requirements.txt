@@ -1,0 +1,10 @@
+flask
+pymysql
+numpy
+pandas
+scikit-learn
+jieba
+opencc-python-reimplemented
+requests
+bs4
+
